@@ -1,23 +1,28 @@
-# Python Fundamentals Tutorial
+# Python Data Structures Tutorial
 ## I. Welcome
 * Introduction
 * Contact Information
-## II. Conditionals
+## II. Stack
 * Introduction
-* Boolean Expressions
-* Multiple Conditions
+* Definition
+* Characteristics
+* Tortillas Analogy
+* Operations
 * Example
 * Problem to Solve
-## III. Loops
+## III. Set
 * Introduction
-* For Loops (Iterators)
-* Using Range with For Loops
-* While Loops
+* Definition
+* Characteristics
+* Hashing
+* Operations
 * Example
 * Problem to Solve
-## IV. Functions
+## IV. Tree
 * Introduction
-* Structure of a Python Function
-* Organizing Functions
+* Definition
+* Characteristics
+* Types of Trees
+* Operations
 * Example
 * Problem to Solve
