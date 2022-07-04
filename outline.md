@@ -2,27 +2,22 @@
 ## I. Welcome
 * Introduction
 * Contact Information
-## II. Stack
+## II. Conditionals
 * Introduction
-* Definition
-* Characteristics
-* Tortillas Analogy
-* Operations
+* Boolean Expressions
+* Multiple Conditions
 * Example
 * Problem to Solve
-## III. Set
+## III. Loops
 * Introduction
-* Definition
-* Characteristics
-* Hashing
-* Operations
+* For Loops (Iterators)
+* Using Range with For Loops
+* While Loops
 * Example
 * Problem to Solve
-## IV. Tree
+## IV. Functions
 * Introduction
-* Definition
-* Characteristics
-* Types of Trees
-* Operations
+* Structure of a Python Function
+* Organizing Functions
 * Example
 * Problem to Solve
