@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The deadline is in two hours and you're writting that essay that you procrastinated for almost two weeks. Suddenly, when trying to go to your browser windows, your computer decided to select all the paragraphs and delete them. Fortunately, you know your computer shortcuts very well and use the undo a couple of times. Magicallym your complete essay is back as it was before the accident.
+The deadline is in two hours and you're writting that essay that you procrastinated for almost two weeks. Suddenly, when trying to go to your browser windows, your computer decided to select all the paragraphs and delete them. Fortunately, you know your computer shortcuts very well and use the undo a couple of times. Magically, your complete essay is back as it was before the accident.
 
 We're so lucky to have the undo and redo functions built into our software. But, what's the principle by which those functionalities work?
 
