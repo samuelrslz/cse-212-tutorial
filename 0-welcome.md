@@ -10,3 +10,5 @@ Welcome to my Data Structures Tutorial. In this tutorial, you'll be introduced t
 Samuel Rios-Lazo
 CSE 212
 rioslazosamuel@gmail.com
+
+![Samuel Tree](media/tree_samuel.jpg)
